@@ -23,7 +23,7 @@ const corsOptions = {
 
 app.use(cors(corsOptions));
 
-const PORT = 8000;
+const PORT = 6000;
 
 
 // api's
